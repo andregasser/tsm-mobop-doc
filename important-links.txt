@@ -23,6 +23,11 @@ Processing JSON data in Android
 https://stackoverflow.com/questions/9605913/how-to-parse-json-in-android
 
 
+HTTP Communication
+------------------
+https://developer.android.com/reference/java/net/HttpURLConnection.html
+
+
 Google Maps API for Android
 ---------------------------
 Allgemein:
